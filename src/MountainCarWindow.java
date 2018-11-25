@@ -67,6 +67,12 @@ public class MountainCarWindow extends JFrame {
             System.out.println("Episode " + i + " took " + stepcounter + " steps.");
         }
         pw.dispose();
+
+
+        for (int j = 0; j < 10; j++) {
+
+
+        }
     }
 
 }
